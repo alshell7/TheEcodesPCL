@@ -5,7 +5,7 @@ The "E" stands for "Europe". They are commonly found on food labels throughout t
 Safety assessment and approval are the responsibility of the European Food Safety Authority.*
 *Having a single unified list for food additives was first agreed upon in 1962 with food colouring. 
 In 1964, the directives for preservatives were added, 1970 for antioxidants and 1974 for the emulsifiers, stabilisers, thickeners and gelling agents.*
-(yeah I googled this :grimacing:, just to give an overview what this library is based on. You can [visit here](https://en.wikipedia.org/wiki/E_number) for more information on this..
+(yeah I googled this :P, just to give an overview what this library is based on. You can [visit here](https://en.wikipedia.org/wiki/E_number) for more information on this..
 
 A Portable class library to help you get to work on E codes for any kind food integrity stuff in your app :fork_and_knife:.
 For instance you could have an extra feature in your any food related app to get your client know you even facilitate providing about the food integrity.
