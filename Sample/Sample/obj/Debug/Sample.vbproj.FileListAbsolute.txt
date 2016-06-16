@@ -1,0 +1,14 @@
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\bin\Debug\Sample.exe.config
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\bin\Debug\Sample.exe
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\bin\Debug\Sample.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\bin\Debug\Sample.xml
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\bin\Debug\TheEcodesPCL.dll
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\bin\Debug\TheEcodesPCL.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\bin\Debug\TheEcodesPCL.xml
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\obj\Debug\Sample.vbprojResolveAssemblyReference.cache
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\obj\Debug\Sample.Form1.resources
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\obj\Debug\Sample.Resources.resources
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\obj\Debug\Sample.vbproj.GenerateResource.Cache
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\obj\Debug\Sample.exe
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\obj\Debug\Sample.xml
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\Sample\Sample\obj\Debug\Sample.pdb
