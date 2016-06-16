@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TheEcodesPCL</name>
+    </assembly>
+    <members>
+        <member name="T:TheEcodes.EcodeInformation">
+            <summary>
+            A class to get all the valid information of a particular E code.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:TheEcodes.EcodeInformation.#ctor(TheEcodes.Ecode)">
+            <summary>
+            Instantiates the class and gets all the required information of the E-code.
+            </summary>
+            <param name="EcodeNumber">E-code whose information to be retrieved.</param>
+            <remarks></remarks>
+        </member>
+        <member name="M:TheEcodes.EcodeInformation.ToString">
+            <summary>
+            Returns the instance of this EcodeInformation.
+            </summary>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="P:TheEcodes.EcodeInformation.EquivalentName">
+            <summary>
+            Gets the qualified name of the E-code or its associated information.
+            </summary>
+            <value></value>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="P:TheEcodes.EcodeInformation.AbstractInformation">
+            <summary>
+            Gets the brief information of the E-code. Basically in terms of integrity.
+            </summary>
+            <value></value>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="P:TheEcodes.EcodeInformation.CodeIntegrity">
+            <summary>
+            Returns the level of E-code, how accepted it is for consumption as an ingredient.
+            </summary>
+            <value></value>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="P:TheEcodes.EcodeInformation.AdvertName">
+            <summary>
+            Returns the name of E-code that is actually presented on any food item.
+            </summary>
+            <value></value>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="T:TheEcodes.Integrity">
+            <summary>
+            Indicates how much is the E-code to be concerned.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="T:TheEcodes.Ecode">
+            <summary>
+            The types of E-codes available.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="T:TheEcodes.HelperFunctions">
+            <summary>
+            A class to give ease integrating the code the with the application UI.
+            </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:TheEcodes.HelperFunctions.ConvertStringToEcode(System.String)">
+            <summary>
+            Converts the given string aliasing any E-code, to that respective Ecode enumeration value.
+            </summary>
+            <param name="ECodeString">String having the valid metadata of E-code</param>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:TheEcodes.HelperFunctions.CheckForIntegrity(TheEcodes.Ecode)">
+            <summary>
+            Returns the integrity of a particular E-code.
+            </summary>
+            <param name="EcodeNumber">Valid E-code to be converted.</param>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:TheEcodes.HelperFunctions.EnumerateEcodesToList">
+            <summary>
+            Retrieves all the E-codes in a list of string.
+            </summary>
+            <returns></returns>
+            <remarks></remarks>
+        </member>
+    </members>
+</doc>

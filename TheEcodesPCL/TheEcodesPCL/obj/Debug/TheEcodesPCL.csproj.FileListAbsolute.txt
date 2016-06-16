@@ -1,0 +1,17 @@
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\obj\Debug\TheEcodesPCL.csprojResolveAssemblyReference.cache
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\bin\Debug\TheEcodesPCL.dll
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\bin\Debug\TheEcodesPCL.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\obj\Debug\TheEcodesPCL.dll
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\obj\Debug\TheEcodesPCL.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL-master\TheEcodesPCL\bin\Debug\TheEcodesPCL.dll
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL-master\TheEcodesPCL\bin\Debug\TheEcodesPCL.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL-master\TheEcodesPCL\obj\Debug\TheEcodesPCL.csprojResolveAssemblyReference.cache
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL-master\TheEcodesPCL\obj\Debug\TheEcodesPCL.dll
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL-master\TheEcodesPCL\obj\Debug\TheEcodesPCL.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL-master\TheEcodesPCL\bin\Debug\TheEcodesPCL.XML
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\TheEcodesPCL\obj\Debug\TheEcodesPCL.csprojResolveAssemblyReference.cache
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\TheEcodesPCL\obj\Debug\TheEcodesPCL.dll
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\TheEcodesPCL\bin\Debug\TheEcodesPCL.XML
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\TheEcodesPCL\bin\Debug\TheEcodesPCL.dll
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\TheEcodesPCL\bin\Debug\TheEcodesPCL.pdb
+H:\temp documents\Projects\Visual Studio 15 Made Apps\TheEcodesPCL\TheEcodesPCL\TheEcodesPCL\obj\Debug\TheEcodesPCL.pdb
