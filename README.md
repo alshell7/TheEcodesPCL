@@ -1,5 +1,5 @@
-#TheEcodesPCL
->*First of all, if you are unaware what is E code ?*
+# TheEcodesPCL
+> *First of all, if you are unaware what is E code ?*
 *E numbers are codes for substances that are permitted to be used as food additives for use within the European Union and Switzerland.
 The "E" stands for "Europe". They are commonly found on food labels throughout the European Union.
 Safety assessment and approval are the responsibility of the European Food Safety Authority.*
@@ -15,20 +15,20 @@ This library is written in *C#*, and considered to be working for platforms like
 >The targeted framework includes .NET framework 4.0 and higher, SilverLight 5, Windows Phone 8, Windows Store Apps (Windows 8),
 Xamarin.iOS, Xamarin.iOS (classic)
 
-##How to use
+## How to use
 * Just right click your project (If using Microsoft Visual Studio)
 * Select "Add a reference"
 * Locate the library, and you're good to go !
 
->A simple implementation has been provided for .NET classic app
+> A simple implementation has been provided for .NET classic app
 
-##Further developments :pushpin:
+## Further developments :pushpin:
 - [ ] More samples, for different platforms
 - [ ] Extra information on the E codes
 - [ ] Support for Android and Java client apps.
 - [ ] Hopefully to have an API service built out of this library :sparkles:
 
-##License
+## License
 The MIT License (MIT)
 Copyright (c) 2016 alshell7
 
